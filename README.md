@@ -1,4 +1,4 @@
-# Whatsapp Login Clone
+# ChatGPT Interface Clone
 
 ## Requirements
 
